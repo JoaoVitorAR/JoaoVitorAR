@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil, me chamo João Vítor 😁
 
-### Graduado em Ciência da Computação pela UNIFOR em 2020
-### Atuando no mercado de desenvolvimento web desde 2021
+#### Graduado em Ciência da Computação pela UNIFOR em 2020
+#### Atuando no mercado de desenvolvimento web desde 2021
 
  <div>
    <a href="https://github.com/JoaoVitorAR">
