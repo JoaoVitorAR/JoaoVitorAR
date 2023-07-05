@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao meu perfil, me chamo João Vítor 😁
+# Welcome to my profile, my name is João Vítor 😁
 
 I'm João Vítor, a software developer passionate about technology and games. I currently work as a Junior Software Developer.
 With 3 years of experience in the field, I had the opportunity to work on several exciting projects and explore different technologies.
