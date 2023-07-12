@@ -5,7 +5,7 @@ With 3 years of experience in the field, I had the opportunity to work on severa
 
 # 🚀 Expertise
 
-My main objective is front-end development, where I specialize in interactive and user-friendly web applications. I have extensive knowledge of HTML, CSS, JavaScript and Typescript, and I am proficient in popular frameworks and libraries such as React and Angular. </br>
+My main objective is front-end development, where I specialize in interactive and user-friendly web applications. I have extensive knowledge of HTML, CSS, JavaScript, Typescript and Angular, and I am proficient in popular frameworks and libraries such as React. </br>
 I love working on the front-end, but I've been working on the back-end in order to become a complete professional.
 </br>
 Acting in back-end using Java with its other libraries like JSF, Spring, among others.
